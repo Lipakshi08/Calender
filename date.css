@@ -33,7 +33,7 @@
 }
 
 .right {
-    width: 40%;
+    width: 45%;
     background: #f4351e;
     color: #fff;
     border-top-right-radius: 10px;
@@ -41,7 +41,7 @@
 }
 
 .left {
-    width: 60%;
+    width: 55%;
 }
 
 #date {
